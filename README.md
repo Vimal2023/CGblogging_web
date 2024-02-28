@@ -1,7 +1,6 @@
 ## Introducing Carnival Blogging web_app
 
-##Live Here -- 
-
+## Live Here - 
 Not Found any free hosting app Yet {jo mila bhi uspe bhi non-understandable error mil raha hai} 🕵️‍♂️
 
 Welcome to Carnival, the cutting-edge blogging application that brings your words to life in style. Developed using the powerful MERN stack, Carnival offers a seamless and intuitive platform for both creators and readers alike. With a sleek interface and a plethora of features, Carnival stands out as the ultimate choice for anyone passionate about sharing their thoughts and ideas with the world.
